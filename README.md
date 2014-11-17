@@ -1,5 +1,3 @@
-connect-v1.0
-============
 Welcome to Webgility Connect. To use these APIs, you must have a developer account with Webgility Connect. Visit our developer center to get started: https://developer.webgility.com/
 
 Webgility Connect Platform enables applications and developers to seamlessly integrate with rich data in multiple accounting systems (QuickBooks and Xero) through Webgility Connect REST APIs.
